@@ -1,0 +1,18 @@
+########################
+16:10:03 Sunday, 05/05/2024
+User:				Vova
+Phone number:		8777999
+Operator:			mgf
+Payment:			505
+Commision			50.5
+Balance:			+454.5
+########################
+########################
+16:12:03 Sunday, 05/05/2024
+User:				Ivan
+Phone number:		8777999
+Operator:			bln
+Payment:			786
+Commision			78.6
+Balance:			+707.4
+########################
